@@ -91,3 +91,124 @@ button {
     background-color: #404bbf;
 }
 /* #endregion */
+
+/* #region benefits*/
+
+.benefits {
+}
+.ourBenefits {
+}
+.benefitsTable {
+}
+.benefitsList {
+}
+.benefitsListHeader {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.benefitsListText {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* #endregion */
+
+/* #region ourTeam*/
+
+.team {
+}
+.ourTeam {
+}
+.teamTable {
+}
+.teamList {
+    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+    background-color: #fff;
+}
+.teamImg {
+}
+.teamListHeader {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+.teamListText {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+
+/* #endregion */
+
+/* #region portfolio*/
+
+.portfolio {
+}
+
+.ourPortfolio {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.portfolioTable {
+}
+
+.portfolioList {
+}
+
+.portfolioListImg {
+}
+
+.portfolioListHeader {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.portfolioListText {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* #endregion */
+
+/* #region bottom*/
+
+.bottom {
+    background-color: #2e2f42;
+}
+
+.logoFooter {
+    color: #f4f4fd;
+}
+
+.bottomText {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+
+/* #endregion */
